@@ -89,7 +89,6 @@ Seção que permite acompanhar a evolução do patrimônio e dos rendimentos ao 
 ### 📉 7. Gráficos Dinâmicos
 
 A planilha conta com gráficos automáticos que representam visualmente:
-- A evolução do patrimônio ao longo dos anos
 - Comparação entre diferentes períodos
 - Distribuição da alocação por tipo de FII
 
