@@ -1,6 +1,7 @@
 # 💼 ARK INVEST – Simulador de Investimentos em Fundos Imobiliários (FIIs)
 
 **ARK INVEST** é uma ferramenta desenvolvida em **Microsoft Excel** com o objetivo de simular e planejar investimentos em **Fundos Imobiliários (FIIs)** com base em metas financeiras, perfil de investidor e projeções de longo prazo.  
+
 Feita para ser simples, visual e funcional, essa planilha oferece um **controle personalizado e automatizado** de aportes mensais, dividendos, rendimento e patrimônio acumulado ao longo dos anos.
 
 ---
@@ -13,6 +14,8 @@ Essa ferramenta foi desenvolvida como parte do desafio de projeto do curso de Ex
 - Criar uma ferramenta de simulação funcional e interativa
 - Documentar o projeto de forma clara
 - Utilizar o GitHub como meio de compartilhamento de projetos técnicos
+
+---
 
 ## 📌 Funcionalidades
 
@@ -90,4 +93,11 @@ A planilha conta com gráficos automáticos que representam visualmente:
 - Comparação entre diferentes períodos
 - Distribuição da alocação por tipo de FII
 
-  
+---
+
+## ✅ Considerações finais
+
+**ARK INVEST** é uma solução simples, funcional e didática para iniciantes ou curiosos do mundo dos FIIs que desejam começar a planejar seus investimentos com uma base estruturada e clara. 
+
+Todos os campos podem ser personalizados conforme a realidade de cada usuário, com **cálculos automáticos** que facilitam a análise e o planejamento financeiro.
+
